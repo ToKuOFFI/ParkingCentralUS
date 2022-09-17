@@ -1,4 +1,4 @@
-<h1> Mapping Parking CentralUs </h1>
+<h1> Mapping Parking CentralUS </h1>
 
 <p> Bonjour à tous je vous présente aujourd’hui la version 1 de mon mapping ! 👽 </p>
 <p> Merci à ceux qui l'installerons ! ❤️ </p>
